@@ -12,17 +12,19 @@ This is a Streamlit application for behavioral assessment. Users can input vario
     ```bash
     cd behavioral-assessment
     ```
-3. Install the required dependencies:
+    ```
+3. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-
-## Running the Application
-
-Run the Streamlit app:
-```bash
-streamlit run app.py
-```
+4. Run the application:
+   ```bash
+    streamlit run src/app.py
+    ```
+5. Run tests:
+    ```bash
+    pytest
+    ```
 
 ## Usage
 
