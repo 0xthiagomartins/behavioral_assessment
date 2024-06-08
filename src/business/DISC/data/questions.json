@@ -1,0 +1,38 @@
+{
+    "questions": [
+        "I enjoy taking charge of situations.",
+        "I like to persuade others to see my point of view.",
+        "I value harmony and enjoy supporting others.",
+        "I prefer to focus on details and accuracy.",
+        "I am comfortable making quick decisions.",
+        "I enjoy being the center of attention.",
+        "I like to maintain a steady pace.",
+        "I prefer structured and organized environments.",
+        "I enjoy taking risks.",
+        "I am empathetic and sensitive to others' needs.",
+        "I prefer to follow established procedures.",
+        "I like to innovate and try new things.",
+        "I enjoy socializing and meeting new people.",
+        "I am patient and a good listener.",
+        "I am thorough and conscientious in my work.",
+        "I am goal-oriented and driven."
+    ],
+    "trait_mapping": {
+        "0": "D",
+        "1": "I",
+        "2": "S",
+        "3": "C",
+        "4": "D",
+        "5": "I",
+        "6": "S",
+        "7": "C",
+        "8": "D",
+        "9": "S",
+        "10": "C",
+        "11": "D",
+        "12": "I",
+        "13": "S",
+        "14": "C",
+        "15": "D"
+    }
+}

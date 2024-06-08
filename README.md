@@ -35,3 +35,14 @@ This is a Streamlit application for behavioral assessment. Users can input vario
     - Activity Level (1-10)
 3. View the summary and visualizations of the input data.
 4. Click "Generate Report" to finalize the assessment.
+
+## DISC Personality Test
+
+The DISC personality test is now available in the application. This test helps classify personality types based on four traits: Dominance, Influence, Steadiness, and Conscientiousness.
+
+![alt text](assets/disc_radar_plot.png)
+
+### How to Use:
+1. Navigate to the DISC test page.
+2. Answer the questions presented.
+3. Submit your answers to receive your DISC personality type, a detailed explanation, and a visual graph.
