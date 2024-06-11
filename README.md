@@ -12,7 +12,6 @@ This is a Streamlit application for behavioral assessment. Users can input vario
     ```bash
     cd behavioral-assessment
     ```
-    ```
 3. Install dependencies:
     ```bash
     pip install -r requirements.txt
